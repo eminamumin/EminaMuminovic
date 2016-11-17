@@ -1,0 +1,26 @@
+ul li{
+	float: left;
+	display: inline;
+	margin-right: 370px;
+}
+img{
+	float: center; 
+	width; 150px;
+}
+}
+footer{
+	float: left;
+	display: inline;
+	margin-right: 500px;
+	background-color: below;
+	}
+:link:hover{
+	background: green;
+}
+aside{
+	float: left;
+	width: 300px;
+	height: 850px;
+	margin-left: 1050px;
+	margin-top: -550px;
+}
